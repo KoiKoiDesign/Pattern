@@ -7,6 +7,7 @@ nameOfSketch**Plot**.pde=> a code which generated .svg file designed to a penplo
 ![](./src/sqrPttrnAnim.gif)
 
 ## sqrPttrnPlott
+![](./src/sqrPttrnPlot.jpg)
   
   
 ## arcNoisePttrnAnim
