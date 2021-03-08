@@ -1,5 +1,5 @@
 // MOTIFS ////////////////////
-// A pattern generator simply based on hatching. So it's look like a maze.
+// A pattern generator simply based on hatching. So it looks like a maze.
 // Hatches are not regularly spaced: offset becomes larger according the number of hatches.
 
 import processing.svg.*;
