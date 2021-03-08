@@ -8,4 +8,4 @@ You can tweak the pattern by playing with some variables.
   
 Exported files show you how to reproduce them:    
   
-![](../src/hatchingPttrn_maze_files.jpg)
+![](../src/hatchingPttrn_overflow_files.jpg)
