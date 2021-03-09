@@ -4,7 +4,7 @@ Hatches are not regularly spaced: offset becomes larger according the number of 
 
 ![](../src/hatchingPttrn_maze_versions.jpg)   
 
-You can tweak the pattern by playing with some variables.   
+You can tweak the pattern by playing with variables.   
   
 Exported files show you how to reproduce them:    
   
